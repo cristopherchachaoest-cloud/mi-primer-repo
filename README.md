@@ -8,4 +8,4 @@ Estoy aprendiendo Git y GitHub.
 
 Aprender a controlar versiones. Lo que aprendi git status y git init
 
-Segundo avance sioq
+Segundo avance sioq #2
